@@ -4,7 +4,7 @@ jobs:
   "test": &test
     docker:
       - image: "circleci/golang:1.14"
-    working_directory: /go/src/github.com/marten-seemann/qtls
+    working_directory: /go/src/github.com/Psiphon-Labs/qtls
     steps:
       - checkout
       - run:

@@ -1,4 +1,4 @@
-module github.com/marten-seemann/qtls
+module github.com/Psiphon-Labs/qtls
 
 go 1.14
 
